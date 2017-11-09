@@ -7,10 +7,11 @@ public class Foo {
 
 	public static void main(String[] args) {
 		System.out.println("Foo bye");
+		
 	}
 	
 	public String doFoo() {
-		return "Foo";
+		return "Foof";
 	}
 
 	public String doBar() {
